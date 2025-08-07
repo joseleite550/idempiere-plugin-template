@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.template.server.feature_12.0.0.qualifier" id="org.template.server.feature" version="12.0.0.qualifier">
+      <category name="template.main"/>
+   </feature>
+   <category-def name="template.main" label="template main"/>
+</site>

@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Base
+Bundle-SymbolicName: org.template.base
+Bundle-Version: 12.0.0.qualifier
+Import-Package: org.osgi.framework,
+ org.osgi.service.event
+Require-Bundle: org.adempiere.base,
+ org.adempiere.ui.zk
+Automatic-Module-Name: org.template.base
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Service-Component: OSGI-INF/*.xml
+

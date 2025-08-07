@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.template.fragment
+Bundle-SymbolicName: org.template.fragment
+Bundle-Version: 12.0.0.qualifier
+Fragment-Host: org.adempiere.ui.zk
+Automatic-Module-Name: org.template.fragment
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Jetty-WarFragmentFolderPath: /
