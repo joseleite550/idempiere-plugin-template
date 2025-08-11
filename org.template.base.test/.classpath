@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="lib/junit-jupiter-engine.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/junit-jupiter-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/junit-platform-commons.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/junit-platform-engine.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/assertj-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mockito-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mockito-junit-jupiter.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/objenesis.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/byte-buddy-agent.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/byte-buddy.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/opentest4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apiguardian-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javafaker.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/generex.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/automaton.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/snakeyaml.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-lang3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hamcrest.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hamcrest-core.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

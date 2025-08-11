@@ -14,7 +14,7 @@ public class TemplateAnnotationBasedFormFactory extends AnnotationBasedFormFacto
 
 	@Override
 	protected String[] getPackages() {
-		return new String[] { "org.vex.form" };
+		return new String[] { "org.template.form" };
 	}
 
 }

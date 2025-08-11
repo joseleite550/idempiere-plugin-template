@@ -14,7 +14,7 @@ public class TemplateAnnotationBasedEventManager extends AnnotationBasedEventMan
 
 	@Override
 	public String[] getPackages() {
-		return new String[] { "org.vex.event" };
+		return new String[] { "org.template.event" };
 	}
 
 }
